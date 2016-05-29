@@ -2,7 +2,7 @@ Forklift
 ========
 
 .. image:: https://readthedocs.org/projects/forklift/badge/?version=latest
-    :target: https://forklift.readthedocs.org/
+    :target: https://forklift.readthedocs.io/
     :alt: Latest Docs
 
 .. image:: https://travis-ci.org/pypa/forklift.svg?branch=master
@@ -54,7 +54,7 @@ You can also join ``#pypa`` or ``#pypa-dev`` on Freenode to ask questions or
 get involved.
 
 
-.. _`documentation`: https://forklift.readthedocs.org/
+.. _`documentation`: https://forklift.readthedocs.io/
 .. _`issue tracker`: https://github.com/pypa/warehouse/issues
 
 
